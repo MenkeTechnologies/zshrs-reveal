@@ -11,6 +11,7 @@
 //!   remotes open their dashboard + app URLs).
 //!
 //! `// c:` citations refer to the `bin/reveal` shell function.
+#![allow(clippy::not_unsafe_ptr_arg_deref)]
 
 use std::os::raw::c_int;
 use std::process::{Command, Stdio};
