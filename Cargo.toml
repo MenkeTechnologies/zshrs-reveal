@@ -1,0 +1,13 @@
+[package]
+name = "reveal"
+version = "0.1.0"
+edition = "2021"
+publish = false
+description = "gh_reveal (open a repo's GitHub/Heroku pages) ported to a native zshrs plugin"
+
+[lib]
+name = "reveal"
+crate-type = ["cdylib", "rlib"]
+
+[dependencies]
+znative = "0.12"
