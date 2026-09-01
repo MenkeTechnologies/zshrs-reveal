@@ -1,6 +1,6 @@
 [package]
 name = "reveal"
-version = "0.1.3"
+version = "0.1.4"
 edition = "2021"
 publish = false
 description = "Native zshrs plugin porting gh_reveal (open a repo GitHub/Heroku pages)"
