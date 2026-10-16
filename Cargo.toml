@@ -1,6 +1,6 @@
 [package]
 name = "reveal"
-version = "0.1.4"
+version = "0.1.5"
 edition = "2021"
 publish = false
 description = "Native zshrs plugin porting gh_reveal (open a repo GitHub/Heroku pages)"
@@ -13,4 +13,4 @@ name = "reveal"
 crate-type = ["cdylib", "rlib"]
 
 [dependencies]
-znative = "0.12"
+znative = "0.13"

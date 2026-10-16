@@ -229,7 +229,7 @@ fn reveal(host: &Host, args: &Args) -> c_int {
 
 declare_plugin! {
     name: "reveal",
-    version: "0.1.4",
+    version: "0.1.5",
     builtins: {
         "reveal" => reveal,
     },
