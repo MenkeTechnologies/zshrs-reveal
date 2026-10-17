@@ -37,7 +37,7 @@
 ```text
 reveal              → open this repo's GitHub page(s)
 reveal upstream     → open only the remote(s) matching "upstream"
-reveal ../other     → open the repo(s) in the given directory
+reveal ../other     → (outside any repo) open the repo(s) in the given directory
 reveal              → (outside any repo) open your GitHub repositories page
 ```
 
